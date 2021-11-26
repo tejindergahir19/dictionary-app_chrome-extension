@@ -19,7 +19,6 @@ body{
 }
 .wrapper{
   width: 350px;
-  border-radius: 7px;
   background: #fff;
   padding: 25px 28px 45px;
   box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
